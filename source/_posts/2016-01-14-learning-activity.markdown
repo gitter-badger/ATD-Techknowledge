@@ -10,7 +10,7 @@ categories: open source activity
 
 We realize you were probably expecting some sort of new hire orientation, but you are in training so we figured you didn't need it.
 
-Performance reviews are due next week and all of our managers are complaining that they don't know how to write a review. Can you put together a quick 2 hour class for tomorrow's manager meeting to help them get started.
+Performance reviews are due next week and all of our managers are complaining that they don't know how to write a review. Can you put together a quick 2 hour class for tomorrow's manager meeting to help them get started?
 
 Forget all of that stuff you learned in about HPI and just write a class on basic principles of performance reviews.
 
