@@ -1,6 +1,6 @@
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "/ATD-Techknowledge/" # the subpath of your site, e.g. /blog/
+baseurl: "/ATD-Techknowledge" # the subpath of your site, e.g. /blog/
 url: "http://crichID.github.io" # the base hostname & protocol for your site
 
 # User settings
