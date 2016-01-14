@@ -7,7 +7,7 @@ description: 'What are you doing with Open Source?'
 tags:
 - open source
 categories:
-- Activities to Teach Open
+- Gathering Ideas
 twitter_text: 'Tell your story about open source learning'
 ---
 
@@ -17,3 +17,4 @@ While you are here, we hope you will let us know how you are planning to use Ope
 2. Add a description of your open source ideas to a new file in the `_posts` folder.
 3. Commit you changes.
 4. Submit your pull request back to the gh-pages branch of the parent repo.
+5. Celebrate when your pull request is accepted.
