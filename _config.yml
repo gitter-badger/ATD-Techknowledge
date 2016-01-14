@@ -4,9 +4,9 @@ baseurl: "/ATD-Techknowledge/" # the subpath of your site, e.g. /blog/
 url: "http://crichID.github.io" # the base hostname & protocol for your site
 
 # User settings
-username: Cynthia Rich
+username: Taking Advantage of Open Source in Your Learning Projects
 user_description: Open Source Learning Evangelist
-user_title: Training
+user_title: ATD techknowledge
 email: crichID@github.com
 twitter_username: cynthiarich07
 github_username:  crichID
