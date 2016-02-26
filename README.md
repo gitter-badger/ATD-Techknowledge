@@ -1,5 +1,7 @@
 ## Will Jekyll Template
 
+[![Join the chat at https://gitter.im/crichID/ATD-Techknowledge](https://badges.gitter.im/crichID/ATD-Techknowledge.svg)](https://gitter.im/crichID/ATD-Techknowledge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Screenshot](screenshot.png)
 
 This is a simple and minimalist template for Jekyll designed for developers that want to write blog posts but don't want to care about frontend stuff.
